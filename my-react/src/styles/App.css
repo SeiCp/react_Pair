@@ -10,4 +10,11 @@
   color: #ffffff;
 }
 
+.active {
+  display: block;
+}
 
+
+.hidden {
+  display: none;
+}
